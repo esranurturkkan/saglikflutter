@@ -1,0 +1,1 @@
+ C:\\Users\\incis\\Desktop\\spor_1\\.dart_tool\\flutter_build\\cd17ed8e9898b252cbd5b6c19c85e9e0\\native_assets.yaml: 
